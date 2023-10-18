@@ -1,6 +1,7 @@
-# Store
+# Game Store
 
 ##### DESCRIÇÃO
+
 Neste desafio de projeto você irá recriar o Playstation Store com Angular, onde iremos aprender como pensar da forma Angular, aplicar componentes de layout, refatorar pequenas partes do projeto e organizar todo o seu projeto.
 
 ##
@@ -12,6 +13,10 @@ Neste desafio de projeto você irá recriar o Playstation Store com Angular, ond
 | Bootcamp   | Santander Bootcamp 2023 - Fullstack Java+Angular       |
 | Plataforma | DIO                                                    |
 
+
+### Resultado:
+
+![Alt text](/src/assets/image-site.png)
 
 ##
 ### Tecnologias utilizadas:
