@@ -1,10 +1,10 @@
 <a href="#" class="card__container">
     <img
         class="card__image"
-        src="assets/bt-5.jpg"
+        [src]=[gameCover]
         alt=""
         srcset=""
     />
-    <app-card-label gameLabel="Exclusive"/>
-    <app-card-pricing gameType="Digital PS4" gamePrice="R$ 155,90"/>
+    <app-card-label gameLabel="{{ gameLabel }}"/>
+    <app-card-pricing gameType="{{ gameType }}" gamePrice="{{ gamePrice }}"/>
 </a>
